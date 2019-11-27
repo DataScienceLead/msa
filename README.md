@@ -1,4 +1,4 @@
 # msa
-Material for presentation at Make Data Smart
+Material related to my presentation at Make Data Smart 2019 - Trondheim
 
-Here you will find a cheat sheet for making reports in MS Word using python
+Here you will find a cheat sheet for making reports in MS Word and MS PowerPoint using python
