@@ -14,7 +14,7 @@ In this repo you will find a cheat sheet for making reports in MS Word and MS Po
 * Descriptive statistics - focus on visualization
 * Statistical models: Causal  and statistical relations
 * Empirical analyis: Compare apples with apples – Models such as «Propensity score matching», «Synthetic control» and «Differece-in-Difference» are good when one are lacking natural experiments
-* Machine learning: Suited when one are making predictions or when there are to many explanatory variablesgvis det samme som kausalitet (Bilde: Beslutningstre)
+* Machine learning: Suited when one are making predictions or when there are to many explanatory variables
 
 ## Presentation of the results
 1.  Cut and paste results into Word og PowerPoint
